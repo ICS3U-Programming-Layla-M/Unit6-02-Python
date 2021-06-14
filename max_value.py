@@ -43,7 +43,6 @@ def main():
 
     # display the highest value in the array
     print("The maximum value is: {}". format(max_value))
-    print()
 
 
 if __name__ == "__main__":
